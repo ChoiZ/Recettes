@@ -1,2 +1,3 @@
 # Recettes
-Les recettes testées.
+
+Des recettes de cuisine testées.
