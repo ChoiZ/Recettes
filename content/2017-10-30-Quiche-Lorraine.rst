@@ -4,11 +4,11 @@
 
 :Ingrédients:
   - 4 œufs
-  - 1 pâte feuilletée
+  - 1 pâte brisée
   - 200g de lardons fumés
-  - 100g de fromage rapé
-  - 40g de crème fraiche épaisse
-  - 50cl de lait
+  - 70g à 100g de fromage rapé
+  - 2 cuillères à soupe de crème fraiche épaisse
+  - 10cl de lait
   - Sel
   - Poivre
 
@@ -25,4 +25,4 @@ de poivre fouetter et réserver.
 Répartir les lardons sur le fond de tarte, verser la préparation et ajouter le
 fromage râpé.
 
-Enfourner pendant 30 minutes.
+Enfourner pendant 40 minutes.
