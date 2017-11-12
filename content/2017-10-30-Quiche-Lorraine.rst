@@ -1,5 +1,5 @@
 :Préparation: 10 minutes
-:Cuisson: 30 minutes
+:Cuisson: 40 minutes
 :Quantité: 4 à 6 personnes
 
 :Ingrédients:
