@@ -3,11 +3,11 @@
 :Quantité: 8 personnes
 
 :Ingrédients:
-  - une pâte à tarte
+  - Une pâte à tarte
   - 500g de rhubarbe
   - 2 œufs
-  - 20 cl de crème fraiche
-  - 200 grammes de sucre
+  - 20cl de crème fraiche
+  - 200g de sucre
 
 Préparation de la recette :
 ---------------------------

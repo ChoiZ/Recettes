@@ -3,9 +3,9 @@
 :Quantité: 8 personnes
 
 :Ingrédients:
-  - 250 grammes de farine
-  - 100 grammes de beure fondu
-  - 10 cl d'eau
+  - 250g de farine
+  - 100g de beure fondu
+  - 10cl d'eau
   - une cuillère à café de sel
 
 Préparation de la recette :
