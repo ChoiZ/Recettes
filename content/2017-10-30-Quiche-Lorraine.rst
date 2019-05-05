@@ -7,8 +7,8 @@
   - 1 pâte brisée
   - 200g de lardons fumés
   - 70g à 100g de fromage rapé
-  - 2 cuillères à soupe de crème fraiche épaisse
   - 10cl de lait
+  - 2 cuillères à soupe de crème fraiche épaisse
   - Sel
   - Poivre
 
