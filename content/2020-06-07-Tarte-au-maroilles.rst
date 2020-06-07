@@ -8,6 +8,8 @@
   - 2 œufs
   - 20cl de crème fraiche
   - 1 maroilles
+  - 1 pincée de sel
+  - du poivre
 
 Préparation de la recette :
 ---------------------------
@@ -16,7 +18,7 @@ Utiliser la recette de pâte à tarte.
 
 Pendant la cuisson de la pâte, découper le maroilles en tranches.
 
-Dans un saladier mélanger les 2 œufs, la crème fraiche puis ajouter la bière.
+Dans un saladier mélanger les 2 œufs, la crème fraiche puis ajouter le sel, le poivre puis la bière.
 
 Sur la pâte étaler les tranches de maroilles, puis verser le mélange.
 
