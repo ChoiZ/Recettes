@@ -5,7 +5,7 @@
 :Ingrédients pour la pâte sucrée :
   - 200g de farine
   - 100g de beurre (à température ambiante).
-  - 120g de sucre en poudre
+  - 80g de sucre glace
   - 3g de sel
   - 1 œufs
 
@@ -18,7 +18,6 @@
 
 Préparation de la pâte sucrée :
 -------------------------------
-
 
 Au robot battez le beurre avec le sel et le sucre glace pour avoir un mélange homogène puis ajouter les œufs.
 
